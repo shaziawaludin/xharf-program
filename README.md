@@ -1,4 +1,4 @@
-# xharf-program
+# Xharf repository
 Selamat datang!
 Program yang ada disini mungkin masih banyak sekali kekurangannya,
 oleh karenanya tolong sekali untuk setiap yang melihat ini dan punya saran
